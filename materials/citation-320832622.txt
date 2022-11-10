@@ -1,0 +1,1 @@
+Modarresi, Amir & Gangadhar, Siddharth & Sterbenz, James. (2017). A framework for improving network resilience using SDN and fog nodes. 1-7. 10.1109/RNDM.2017.8093036. 

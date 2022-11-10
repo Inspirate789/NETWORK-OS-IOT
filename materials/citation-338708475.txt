@@ -1,0 +1,1 @@
+Smith, Ryan & Palin, Daniel & Ioulianou, Philokypros & Vassilakis, Vassilios & Shahandashti, Siamak. (2020). Battery draining attacks against edge computing nodes in IoT networks. Cyber-Physical Systems. 6. 1-21. 10.1080/23335777.2020.1716268. 
