@@ -12,3 +12,4 @@ References on and around the topic:
 - [IoT architecture(better to see the articles in "materials" folder)](https://www.interviewbit.com/blog/iot-architecture/)
 - [Cisco](https://www.cisco.com/)
 - [Guide to selecting an operating system for the IoT edge device (+ description of the OS from Microsoft)](https://www.quarta-embedded.ru/about/statiyi/rukovodstvo-po-vyboru-operacionnoj-sistemy-dlya-pogranichnogo-ustrojstva-interneta-veshchej/)
+- [Internet of Things security issues and best practices](https://www.kaspersky.ru/resource-center/preemptive-safety/best-practices-for-iot-security)
